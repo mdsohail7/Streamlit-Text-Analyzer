@@ -1,0 +1,7 @@
+streamlit
+gensim
+spacy
+spacy_streamlit
+textblob
+pattern
+nltk
