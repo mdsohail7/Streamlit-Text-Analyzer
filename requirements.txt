@@ -1,7 +1,0 @@
-streamlit==0.74.1
-gensim==3.8.3
-spacy==3.0.6
-spacy-streamlit==1.0.0
-textblob==0.15.3
-Pattern==3.6
-nltk==3.5
