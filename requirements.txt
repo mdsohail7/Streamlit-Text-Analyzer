@@ -5,4 +5,4 @@ spacy-streamlit==1.0.0
 textblob==0.15.3
 Pattern==3.6
 nltk==3.5
-pip install "click==7.1.1"
+click==7.1.1
