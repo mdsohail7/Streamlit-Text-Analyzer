@@ -8,7 +8,7 @@ from pattern.web import Google
 import streamlit.components.v1 as components
 from pattern.en import pluralize , singularize,comparative, superlative
 from spacy.cli import download
-#download("en_core_web_sm")
+download("en_core_web_sm")
 nlp = spacy.load('en_core_web_sm')
 
 
